@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1, h2, h3{
+  font-family: 'DM Sans', sans-serif;
+}
+
+p{
+  font-family: 'DM Sans', sans-serif;
+  font-size:large;
+}
+
+a, button{
+  font-family: 'DM Sans', sans-serif;
+  font-size: small;
+}
+
+body {
+  background-size: 20px 20px;
+  background-image: radial-gradient(circle, #00000052 1px, rgba(0, 0, 0, 0) 1px);
+}
+
+body {
+  padding: 50px; 
+}
+
+/* .shape{
+  object-position:right;
+  width: 80px;
+  aspect-ratio: 1;
+  border: 10px solid #00000000;
+  background: 
+    radial-gradient(farthest-side,#fff 98%,#ffe60000 ) 50%/20px 20px,
+    radial-gradient(farthest-side,#fff 98%,#ffe60000 ) 50%/20px 20px,
+    radial-gradient(farthest-side,#fff 98%,#ffe60000 ) 50%/20px 20px,
+    radial-gradient(farthest-side,#fff 98%,#ffe60000 ) 50%/20px 20px,
+    radial-gradient(farthest-side,#fff 98%,#ffe60000 ) 50%/20px 20px,
+    linear-gradient(#fbff00 0 0) 50%/100% 10px,
+    linear-gradient(#fbff00 0 0) 50%/10px 100%,
+    #ffffff;
+  background-repeat:no-repeat;
+  filter: blur(4px) contrast(10);
+  animation: b3 0.8s infinite;
+}
+@keyframes b3 {
+  100%  {background-position:50% -20px,-20px 50%,60px 50%,50% 60px,50%,50%,50%}
+} */
