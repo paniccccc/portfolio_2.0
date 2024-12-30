@@ -8,8 +8,8 @@ function Intro(){
             <h1 className="text-8xl md:text-7xl mb-1 md:mb-3 font-bold bg-white ">Hello!</h1>
             <p className="text-base md:text-xl mb-3 font-medium bg-white">I am Ronit Mohanty</p>
             <p className="text-sm max-w-xl mb-6 font-base bg-amber-100">
-                Currently a final year CSE student of VIT Vellore. I like to code and read about new and
-                upcoming stuff especially related to the fields of frontend and UI/UX designing.
+                Currently an Analyst at Deloitte US-India offices. I like to game, code and read about new and
+                upcoming stuff especially related to the fields of frontend development, machine learning, cloud engineering and UI/UX designing.
             </p>
         </div>
         <div className="flex justify-center flex-row text-center pt-1 pb-6 gap-2">
@@ -46,7 +46,7 @@ function Intro(){
             <h2 
             className="text-s hover:text-white hover:bg-emerald-500 inline-block px-2 py-1 bg-white dark:bg-stone
             font-bold border-2 border-stone-900 dark:border-white rounded-md">
-                HTML, CSS
+                Python
             </h2>
 
             <h2 
@@ -66,7 +66,7 @@ function Intro(){
             className="text-s inline-block px-2 py-1 
             bg-white dark:bg-stone hover:text-white hover:bg-lime-500
             font-bold border-2 border-stone-900 dark:border-white rounded-md">
-                Python
+                Google Cloud
             </h2>
             
             <h2

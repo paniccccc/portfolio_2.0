@@ -1,14 +1,14 @@
 export default [
     {
         year: 'Today',
-        title: "Upcoming Analyst",
+        title: "Analyst, S&A offering portfolio",
         duration: ' ',
         details: 'Deloitte US India Offices',
     },
 
     {
         year: '2019-2023',
-        title: "Bachelor's in Technology",
+        title: "Undergrad",
         duration: '4 years',
         details: 'Computer Science, VIT Vellore',
     },
@@ -22,14 +22,14 @@ export default [
 
     {
         year: '2017-2018',
-        title: 'Class 12th',
+        title: '12th grade',
         duration: '1 year',
         details: 'Kendriya Vidyalaya No.1, Bhubaneswar',
     },
 
     {
         year: '2015-2016',
-        title: 'Class 10th',
+        title: '10th grade',
         duration: '1 year',
         details: 'Kendriya Vidyalaya No.1, Bhubaneswar',
     },
